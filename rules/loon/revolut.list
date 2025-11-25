@@ -1,20 +1,29 @@
 DOMAIN-SUFFIX,revolut.com
 DOMAIN-SUFFIX,revolut.tech
 DOMAIN-SUFFIX,revolut.business
-DOMAIN-SUFFIX,revolut-technologies.com
+DOMAIN-SUFFIX,revolut-money.com
+DOMAIN-SUFFIX,revolut-identity.com
+DOMAIN-SUFFIX,revolut-pay.com
+DOMAIN-SUFFIX,revolut-static.com
 
+DOMAIN,www.revolut.com
 DOMAIN,login.revolut.com
 DOMAIN,auth.revolut.com
 DOMAIN,secure.revolut.com
 DOMAIN,identity.revolut.com
 DOMAIN,verify.revolut.com
+DOMAIN,user.revolut.com
 
 DOMAIN,api.revolut.com
 DOMAIN,api.revolut.tech
 DOMAIN,api-uk.revolut.com
 DOMAIN,api-eu.revolut.com
+DOMAIN,api-us.revolut.com
 DOMAIN,api-accounts.revolut.com
 DOMAIN,api-business.revolut.com
+DOMAIN,business-api.revolut.com
+DOMAIN,trading.revolut.com
+DOMAIN,crypto-api.revolut.com
 
 DOMAIN,pay.revolut.com
 DOMAIN,payments.revolut.com
@@ -25,13 +34,23 @@ DOMAIN,exchange.revolut.com
 DOMAIN,card.revolut.com
 DOMAIN,card-api.revolut.com
 DOMAIN,token.revolut.com
-DOMAIN,virtual.revolut.com
+DOMAIN,applepay.revolut.com
+DOMAIN,googlepay.revolut.com
+
+DOMAIN,kyc.revolut.com
+DOMAIN,document-upload.revolut.com
+DOMAIN,onboarding.revolut.com
+
+DOMAIN,merchant.revolut.com
+DOMAIN,merchant-api.revolut.com
+DOMAIN,checkout.revolut.com
 
 DOMAIN,mobile-api.revolut.com
 DOMAIN,api.mobile.revolut.com
-
-DOMAIN,business.revolut.com
-DOMAIN,merchant.revolut.com
+DOMAIN,app.revolut.com
+DOMAIN,app-api.revolut.com
 
 DOMAIN,static.revolut.com
+DOMAIN,assets.revolut.com
 DOMAIN,cdn.revolut.com
+DOMAIN,revolut-static.com
