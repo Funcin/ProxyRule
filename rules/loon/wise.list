@@ -1,29 +1,47 @@
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,transferwise.com
 DOMAIN-SUFFIX,twstatic.net
+DOMAIN-SUFFIX,wise-assets.com
 
+DOMAIN,www.wise.com
 DOMAIN,login.wise.com
 DOMAIN,auth.wise.com
 DOMAIN,secure.wise.com
+DOMAIN,identity.wise.com
 
 DOMAIN,api.wise.com
 DOMAIN,api-transfer.wise.com
 DOMAIN,transfer.wise.com
-DOMAIN,quotes-api.wise.com
 DOMAIN,transfers-api.wise.com
+DOMAIN,quotes-api.wise.com
+DOMAIN,fx-api.wise.com
 DOMAIN,payments-api.wise.com
+DOMAIN,token.wise.com
 
-DOMAIN,card-api.wise.com
+DOMAIN,borderless.wwise.com
+DOMAIN,balance.wise.com
+DOMAIN,pay.wise.com
+
 DOMAIN,card.wise.com
+DOMAIN,card-api.wise.com
+DOMAIN,card-issuer.wise.com
+DOMAIN,virtual.wise.com
 
-DOMAIN,kyc.wise.com
 DOMAIN,verify.wise.com
-DOMAIN,identity.wise.com
+DOMAIN,kyc.wise.com
+DOMAIN,document-upload.wise.com
+DOMAIN,onboarding.wise.com
 
+DOMAIN,mobile.wise.com
 DOMAIN,mobile-api.wise.com
 DOMAIN,api.mobile.wise.com
 DOMAIN,app.wise.com
+DOMAIN,app-api.wise.com
 
 DOMAIN,notifications.wise.com
 DOMAIN,webhooks.wise.com
+DOMAIN,alerts.wise.com
+
 DOMAIN,static.wise.com
+DOMAIN,assets.wise.com
+DOMAIN,cdn.wise.com
