@@ -5,41 +5,48 @@ DOMAIN-SUFFIX,paypal-support.com
 DOMAIN-SUFFIX,paypal-community.com
 DOMAIN-SUFFIX,braintreepayments.com
 DOMAIN-SUFFIX,hyperwallet.com
+DOMAIN-SUFFIX,braintreegateway.com
+DOMAIN-SUFFIX,paypal-mktg.com
 
-DOMAIN,www.paypal.com
-DOMAIN,api.paypal.com
-DOMAIN,api-m.paypal.com
-DOMAIN,api-3t.paypal.com
-DOMAIN,api-m.paypal.com
-DOMAIN,api.paypalobjects.com
-
-DOMAIN,auth.paypal.com
 DOMAIN,login.paypal.com
+DOMAIN,auth.paypal.com
 DOMAIN,secure.paypal.com
 DOMAIN,identity.paypal.com
-DOMAIN,kyc.paypal.com
 DOMAIN,verify.paypal.com
+DOMAIN,kyc.paypal.com
 DOMAIN,documentupload.paypal.com
 
+DOMAIN,api.paypal.com
+DOMAIN,api-m.paypal.com
+DOMAIN,api.paypalobjects.com
 DOMAIN,checkout.paypal.com
 DOMAIN,checkout-api.paypal.com
 DOMAIN,payflowpro.paypal.com
 DOMAIN,payments.paypal.com
-DOMAIN,paypal.me
 DOMAIN,payouts-api.paypal.com
+DOMAIN,pay.paypal.com
+DOMAIN,paypal.me
+
+DOMAIN,risk.paypal.com
+DOMAIN,device.paypal.com
+DOMAIN,securetoken.paypal.com
+DOMAIN,fraudfilter.paypal.com
+DOMAIN,riskapi.paypal.com
+DOMAIN,idupload.paypal.com
 
 DOMAIN,billing.paypal.com
 DOMAIN,billpay.paypal.com
 DOMAIN,merchant.paypal.com
 DOMAIN,developer.paypal.com
-DOMAIN,api-m.paypal.com
 
-DOMAIN,vip.paypal.com
-DOMAIN,risk.paypal.com
 DOMAIN,tracking.paypal.com
-DOMAIN,alerts.paypal.com
+DOMAIN,track-api.paypal.com
 
 DOMAIN,static.paypal.com
 DOMAIN,cdn.paypal.com
 DOMAIN,assets.paypal.com
-DOMAIN,paypalobjects.com
+DOMAIN,img.paypal.com
+
+DOMAIN,api.braintreepayments.com
+DOMAIN,client-analytics.braintreegateway.com
+DOMAIN,api.hyperwallet.com
