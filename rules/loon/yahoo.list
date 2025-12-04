@@ -1,0 +1,63 @@
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yahooapis.com
+DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,yahoofs.com
+DOMAIN-SUFFIX,yahooinc.com
+DOMAIN-SUFFIX,yahoodns.net
+DOMAIN-SUFFIX,yahoostatic.com
+
+# 邮箱
+DOMAIN,mail.yahoo.com
+DOMAIN,imap.mail.yahoo.com
+DOMAIN,smtp.mail.yahoo.com
+DOMAIN,pop.mail.yahoo.com
+DOMAIN,login.yahoo.com
+DOMAIN,api.login.yahoo.com
+DOMAIN,auth.yahoo.com
+DOMAIN,accounts.yahoo.com
+
+# 新闻 / 财经 / 体育等内容服务
+DOMAIN,news.yahoo.com
+DOMAIN,finance.yahoo.com
+DOMAIN,sports.yahoo.com
+DOMAIN,weather.yahoo.com
+DOMAIN,tech.yahoo.com
+DOMAIN,lifestyle.yahoo.com
+DOMAIN,entertainment.yahoo.com
+
+# 日本 Yahoo（独立体系）
+DOMAIN,login.yahoo.co.jp
+DOMAIN,mail.yahoo.co.jp
+DOMAIN,news.yahoo.co.jp
+DOMAIN,search.yahoo.co.jp
+DOMAIN,yads.yahoo.co.jp
+
+# API 层
+DOMAIN,query.yahooapis.com
+DOMAIN,api.yahoo.com
+DOMAIN,geo.yahoo.com
+DOMAIN,consumer.yahooapis.jp
+
+# 移动端 / App
+DOMAIN,mobile.yahoo.com
+DOMAIN,api.mobile.yahoo.com
+DOMAIN,app.yahoo.com
+
+# 静态资源
+DOMAIN,s.yimg.com
+DOMAIN,l.yimg.com
+DOMAIN,cdn.yimg.com
+DOMAIN,static.yahoo.com
+DOMAIN,assets.yahoo.com
+
+# CDN / 资源镜像
+DOMAIN,yimg.jp
+DOMAIN,yimg.com.au
+DOMAIN,yimg.co.kr
+
+#（可选）广告 / 跟踪
+DOMAIN-SUFFIX,yahoo-ads.com
+DOMAIN,ads.yahoo.com
+DOMAIN,adserver.yahoo.com
+DOMAIN,analytics.yahoo.com
